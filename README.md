@@ -112,4 +112,4 @@ Original repo: github.com/jwavalosq/TennisAnalytics. This local build does
 not delete or overwrite any original repo file. It builds on downloaded
 copies in `data/raw/`.
 
-Nothing here was published, pushed, posted, or signed into.
+This project was built locally and then published to this repo.
