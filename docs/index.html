@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tennis Analytics: Serve, Surface, and Eras</title>
+<style>
+body { font-family: Georgia, serif; max-width: 820px; margin: 0 auto; padding: 24px; line-height: 1.6; color: #222; }
+h1 { font-size: 2em; } h2 { margin-top: 2em; color: #2a7f62; }
+img { max-width: 100%; height: auto; border: 1px solid #ddd; }
+figure { margin: 1.5em 0; } figcaption { font-size: 0.9em; color: #555; }
+.note { background: #f4f4f4; padding: 12px 16px; border-left: 4px solid #2a7f62; }
+a { color: #3a6ea5; }
+</style>
+</head>
+<body>
+<h1>Tennis Analytics: Serve, Surface, and Eras</h1>
+<p>A beginner friendly story about men's tennis at the Grand Slams, from 2000 to 2019, with a supplement that carries the story to 2024 and adds the women's game.</p>
+<p class="note">Repo link (local build only, not published from here): <a href="https://github.com/jwavalosq/TennisAnalytics">github.com/jwavalosq/TennisAnalytics</a>. This site is a local story page in the style of a GitHub Pages story site. No code was pushed to that repo by this build.</p>
+
+<h2>Chapter 1. What is a Grand Slam?</h2>
+<p>Tennis has four Grand Slams, the four biggest tournaments: the Australian Open, the French Open, Wimbledon, and the US Open. Win one, and you are remembered. Win many, and you define an era. The original data covers men's singles at those four Slams, from 2000 to 2019: 10,160 matches in total.</p>
+<figure><img src="charts/01_matches_by_round.png" alt="Matches by round"><figcaption>Every Slam draw has the same shape: many first round matches, and only one final.</figcaption></figure>
+
+<h2>Chapter 2. The serve wins matches</h2>
+<p>An ace is a serve the opponent does not touch. A double fault is two missed serves in a row. A break point is a chance for the returner to win the server's service game. Match winners averaged 10.11 aces per match, against 7.34 for losers. Winners won 76.9 percent of first serve points, losers won 66.1 percent. Winners saved 68.1 percent of break points faced, losers saved 56.0 percent.</p>
+<figure><img src="charts/02_aces_by_surface.png" alt="Aces by surface"><figcaption>Grass rewards the serve most, clay least.</figcaption></figure>
+<figure><img src="charts/02_first_serve_winners_losers.png" alt="First serve winners versus losers"><figcaption>Winners are far better on first serve points.</figcaption></figure>
+<p>We also built a new score, the Serve Dominance Index (SDI): (aces + first serve points won - double faults) / service points played x 100. John Isner leads at 75.68, then Ivo Karlovic at 73.56. But neither won a Slam in this window. A huge serve helps, it does not finish the job alone.</p>
+<figure><img src="charts/02_sdi_leaders.png" alt="SDI leaders"><figcaption>SDI leaders, players with at least 50 Slam matches.</figcaption></figure>
+
+<h2>Chapter 3. Clay, grass, and hard courts play differently</h2>
+<p>Clay is slow and the ball bounces high. Grass is fast and the ball stays low. Hard courts sit in between. Rafael Nadal won 90.2 percent of tour matches on clay from 2000 to 2024, against 78.4 percent on grass and 77.2 percent on hard. Roger Federer led on grass at 87.8 percent. A second new score, the Surface Versatility Score, rewards winning a lot and winning evenly: Novak Djokovic leads at 0.810, then Federer at 0.776, then Nadal at 0.747.</p>
+<figure><img src="charts/03_big3_surface_win_rates.png" alt="Big Three surface win rates, tour"><figcaption>Big Three win rates by surface, full tour 2000 to 2024.</figcaption></figure>
+<figure><img src="charts/03_versatility_leaders.png" alt="Versatility leaders"><figcaption>Versatility rewards balance, not just one great surface.</figcaption></figure>
+<figure><img src="charts/03_big3_slam_surface.png" alt="Big Three Slam surface win rates"><figcaption>The same story at Slams only, with higher numbers, because Slams are the toughest events.</figcaption></figure>
+
+<h2>Chapter 4. The Big Three era</h2>
+<p>Federer, Nadal, and Djokovic won 55 of the 80 Slams from 2000 to 2019. All 55 came from 2003 onward, so they won 55 of 68 Slams from 2003 to 2019. When they played each other at Slams in this data, 45 matches in total, Nadal won 19, Djokovic won 16, and Federer won 10.</p>
+<figure><img src="charts/04_slam_titles_by_player.png" alt="Slam titles by player"><figcaption>Slam titles in the original data, 2000 to 2019.</figcaption></figure>
+<figure><img src="charts/04_big3_matches_per_year.png" alt="Big Three matches per year"><figcaption>Year by year, who was active and winning at Slams.</figcaption></figure>
+<figure><img src="charts/04_big3_head_to_head.png" alt="Big Three head to head"><figcaption>Wins in Big Three versus Big Three Slam matches.</figcaption></figure>
+
+<h2>Chapter 5. Who wins Slams, and how often does the underdog win?</h2>
+<p>Rank 1 players won 31 of the 80 Slams, and ranks 2 to 4 won another 31. The top four ranks won 62 of 80. An upset in this project means the lower ranked player won. That happened in 28.3 percent of Slam matches (2,867 of 10,120), most often in round one, at 30.4 percent. Clay matches lasted longest on average, at 148.9 minutes.</p>
+<figure><img src="charts/05_winners_by_rank_band.png" alt="Winners by rank band"><figcaption>The original files have rank, not seed, so these are rank bands, not seeds.</figcaption></figure>
+<figure><img src="charts/05_upset_rate_by_round.png" alt="Upset rate by round"><figcaption>Upsets fade as the rounds go on, except for a small final sample. Do not over read the final bar.</figcaption></figure>
+<figure><img src="charts/05_match_minutes_by_surface.png" alt="Match minutes by surface"><figcaption>Clay matches lasted longest on average.</figcaption></figure>
+
+<h2>Chapter 6. After 2019, and the women's game</h2>
+<p>The original data stops in 2019 and covers men's Slams only. The Sackmann supplement, via an archive mirror because the original Sackmann repos returned 404 in November 2026, carries the story on. From 2020 to 2024, Djokovic won 8 Slams, Carlos Alcaraz won 4, Nadal won 3, Jannik Sinner won 2, and Dominic Thiem and Daniil Medvedev won 1 each. Wimbledon 2020 was cancelled, so 2020 has three finals, not four. In the women's game from 2000 to 2024, Serena Williams won 22 Slams, then Venus Williams and Justine Henin with 7 each.</p>
+<figure><img src="charts/06_recent_slam_titles.png" alt="Recent Slam titles"><figcaption>Men's Slam titles, 2020 to 2024, Sackmann supplement.</figcaption></figure>
+<figure><img src="charts/06_wta_titles.png" alt="Womens Slam titles"><figcaption>Women's Slam titles, 2000 to 2024, top 8, Sackmann supplement.</figcaption></figure>
+<figure><img src="charts/06_tour_matches_by_surface.png" alt="Tour matches by surface"><figcaption>Hard courts dominate the tour calendar. Grass is a short season.</figcaption></figure>
+
+<h2>Honest cuts</h2>
+<ul>
+<li>Original data: men's Slam singles only, 2000 to 2019. No women's matches, no other tournaments, no years after 2019.</li>
+<li>Surface in the original data is mapped from tournament name, not printed in the file.</li>
+<li>The original data has rank, not seed. Rank bands are used, and are called ranks.</li>
+<li>First serve points won is derived from the opponent's row, not printed in the file. The derivation is in scripts/build_processed.py.</li>
+<li>40 matches in Match.csv have no Stats rows. They are counted and excluded, not filled in.</li>
+<li>The Sackmann supplement comes from an archive mirror, because the original repos returned 404. Attribution to Jeff Sackmann. Full URLs are in data/raw/PROVENANCE.md.</li>
+<li>No maps, no betting odds analysis, and no prediction model were built.</li>
+</ul>
+<p>Start with the notebooks in order, 01 to 06, to see every number worked out step by step. Full details are in README.md and BUILD_REPORT.md.</p>
+</body>
+</html>

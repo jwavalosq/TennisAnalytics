@@ -1,0 +1,100 @@
+year,tourney_name,surface,winner_name,loser_name,winner_seed,winner_rank
+2000,Roland Garros,Clay,Gustavo Kuerten,Magnus Norman,5.0,5.0
+2000,Wimbledon,Grass,Pete Sampras,Patrick Rafter,1.0,3.0
+2000,US Open,Hard,Marat Safin,Pete Sampras,6.0,7.0
+2000,Australian Open,Hard,Andre Agassi,Yevgeny Kafelnikov,1.0,1.0
+2001,Roland Garros,Clay,Gustavo Kuerten,Alex Corretja,1.0,1.0
+2001,Wimbledon,Grass,Goran Ivanisevic,Patrick Rafter,,125.0
+2001,US Open,Hard,Lleyton Hewitt,Pete Sampras,4.0,4.0
+2001,Australian Open,Hard,Andre Agassi,Arnaud Clement,6.0,6.0
+2002,Roland Garros,Clay,Albert Costa,Juan Carlos Ferrero,20.0,22.0
+2002,Wimbledon,Grass,Lleyton Hewitt,David Nalbandian,1.0,1.0
+2002,US Open,Hard,Pete Sampras,Andre Agassi,17.0,17.0
+2002,Australian Open,Hard,Thomas Johansson,Marat Safin,16.0,18.0
+2003,Roland Garros,Clay,Juan Carlos Ferrero,Martin Verkerk,3.0,3.0
+2003,Wimbledon,Grass,Roger Federer,Mark Philippoussis,4.0,5.0
+2003,US Open,Hard,Andy Roddick,Juan Carlos Ferrero,4.0,4.0
+2003,Australian Open,Hard,Andre Agassi,Rainer Schuettler,2.0,2.0
+2004,Roland Garros,Clay,Gaston Gaudio,Guillermo Coria,,44.0
+2004,Wimbledon,Grass,Roger Federer,Andy Roddick,1.0,1.0
+2004,US Open,Hard,Roger Federer,Lleyton Hewitt,1.0,1.0
+2004,Australian Open,Hard,Roger Federer,Marat Safin,2.0,2.0
+2005,Roland Garros,Clay,Rafael Nadal,Mariano Puerta,4.0,5.0
+2005,Wimbledon,Grass,Roger Federer,Andy Roddick,1.0,1.0
+2005,US Open,Hard,Roger Federer,Andre Agassi,1.0,1.0
+2005,Australian Open,Hard,Marat Safin,Lleyton Hewitt,4.0,4.0
+2006,Roland Garros,Clay,Rafael Nadal,Roger Federer,2.0,2.0
+2006,Wimbledon,Grass,Roger Federer,Rafael Nadal,1.0,1.0
+2006,US Open,Hard,Roger Federer,Andy Roddick,1.0,1.0
+2006,Australian Open,Hard,Roger Federer,Marcos Baghdatis,1.0,1.0
+2007,Roland Garros,Clay,Rafael Nadal,Roger Federer,2.0,2.0
+2007,Wimbledon,Grass,Roger Federer,Rafael Nadal,1.0,1.0
+2007,US Open,Hard,Roger Federer,Novak Djokovic,1.0,1.0
+2007,Australian Open,Hard,Roger Federer,Fernando Gonzalez,1.0,1.0
+2008,Roland Garros,Clay,Rafael Nadal,Roger Federer,2.0,2.0
+2008,Wimbledon,Grass,Rafael Nadal,Roger Federer,2.0,2.0
+2008,US Open,Hard,Roger Federer,Andy Murray,2.0,2.0
+2008,Australian Open,Hard,Novak Djokovic,Jo-Wilfried Tsonga,3.0,3.0
+2009,Roland Garros,Clay,Roger Federer,Robin Soderling,2.0,2.0
+2009,Wimbledon,Grass,Roger Federer,Andy Roddick,2.0,2.0
+2009,US Open,Hard,Juan Martin del Potro,Roger Federer,6.0,6.0
+2009,Australian Open,Hard,Rafael Nadal,Roger Federer,1.0,1.0
+2010,Australian Open,Hard,Roger Federer,Andy Murray,1.0,1.0
+2010,Roland Garros,Clay,Rafael Nadal,Robin Soderling,2.0,2.0
+2010,Wimbledon,Grass,Rafael Nadal,Tomas Berdych,2.0,1.0
+2010,US Open,Hard,Rafael Nadal,Novak Djokovic,1.0,1.0
+2011,Australian Open,Hard,Novak Djokovic,Andy Murray,3.0,3.0
+2011,Roland Garros,Clay,Rafael Nadal,Roger Federer,1.0,1.0
+2011,Wimbledon,Grass,Novak Djokovic,Rafael Nadal,2.0,2.0
+2011,US Open,Hard,Novak Djokovic,Rafael Nadal,1.0,1.0
+2012,Australian Open,Hard,Novak Djokovic,Rafael Nadal,1.0,1.0
+2012,Roland Garros,Clay,Rafael Nadal,Novak Djokovic,2.0,2.0
+2012,Wimbledon,Grass,Roger Federer,Andy Murray,3.0,3.0
+2012,US Open,Hard,Andy Murray,Novak Djokovic,3.0,4.0
+2013,Australian Open,Hard,Novak Djokovic,Andy Murray,1.0,1.0
+2013,Roland Garros,Clay,Rafael Nadal,David Ferrer,3.0,4.0
+2013,Wimbledon,Grass,Andy Murray,Novak Djokovic,2.0,2.0
+2013,US Open,Hard,Rafael Nadal,Novak Djokovic,2.0,2.0
+2014,Australian Open,Hard,Stan Wawrinka,Rafael Nadal,8.0,8.0
+2014,Roland Garros,Clay,Rafael Nadal,Novak Djokovic,1.0,1.0
+2014,Wimbledon,Grass,Novak Djokovic,Roger Federer,1.0,2.0
+2014,US Open,Hard,Marin Cilic,Kei Nishikori,14.0,16.0
+2015,Australian Open,Hard,Novak Djokovic,Andy Murray,1.0,1.0
+2015,Roland Garros,Clay,Stan Wawrinka,Novak Djokovic,8.0,9.0
+2015,Wimbledon,Grass,Novak Djokovic,Roger Federer,1.0,1.0
+2015,US Open,Hard,Novak Djokovic,Roger Federer,1.0,1.0
+2016,Australian Open,Hard,Novak Djokovic,Andy Murray,1.0,1.0
+2016,Roland Garros,Clay,Novak Djokovic,Andy Murray,1.0,1.0
+2016,Wimbledon,Grass,Andy Murray,Milos Raonic,2.0,2.0
+2016,US Open,Hard,Stan Wawrinka,Novak Djokovic,3.0,3.0
+2017,Australian Open,Hard,Roger Federer,Rafael Nadal,17.0,17.0
+2017,Roland Garros,Clay,Rafael Nadal,Stan Wawrinka,4.0,4.0
+2017,Wimbledon,Grass,Roger Federer,Marin Cilic,3.0,5.0
+2017,US Open,Hard,Rafael Nadal,Kevin Anderson,1.0,1.0
+2018,Australian Open,Hard,Roger Federer,Marin Cilic,2.0,2.0
+2018,Roland Garros,Clay,Rafael Nadal,Dominic Thiem,1.0,1.0
+2018,Wimbledon,Grass,Novak Djokovic,Kevin Anderson,12.0,21.0
+2018,US Open,Hard,Novak Djokovic,Juan Martin del Potro,6.0,6.0
+2019,Australian Open,Hard,Novak Djokovic,Rafael Nadal,1.0,1.0
+2019,Roland Garros,Clay,Rafael Nadal,Dominic Thiem,2.0,2.0
+2019,Wimbledon,Grass,Novak Djokovic,Roger Federer,1.0,1.0
+2019,US Open,Hard,Rafael Nadal,Daniil Medvedev,2.0,2.0
+2020,Australian Open,Hard,Novak Djokovic,Dominic Thiem,2.0,2.0
+2020,Us Open,Hard,Dominic Thiem,Alexander Zverev,2.0,3.0
+2020,Roland Garros,Clay,Rafael Nadal,Novak Djokovic,1.0,2.0
+2021,Roland Garros,Clay,Novak Djokovic,Stefanos Tsitsipas,1.0,1.0
+2021,Wimbledon,Grass,Novak Djokovic,Matteo Berrettini,1.0,1.0
+2021,Us Open,Hard,Daniil Medvedev,Novak Djokovic,2.0,2.0
+2021,Australian Open,Hard,Novak Djokovic,Daniil Medvedev,1.0,1.0
+2022,Australian Open,Hard,Rafael Nadal,Daniil Medvedev,6.0,5.0
+2022,Roland Garros,Clay,Rafael Nadal,Casper Ruud,5.0,5.0
+2022,Wimbledon,Grass,Novak Djokovic,Nick Kyrgios,1.0,3.0
+2022,Us Open,Hard,Carlos Alcaraz,Casper Ruud,3.0,4.0
+2023,Australian Open,Hard,Novak Djokovic,Stefanos Tsitsipas,4.0,5.0
+2023,Roland Garros,Clay,Novak Djokovic,Casper Ruud,3.0,3.0
+2023,Wimbledon,Grass,Carlos Alcaraz,Novak Djokovic,1.0,1.0
+2023,Us Open,Hard,Novak Djokovic,Daniil Medvedev,2.0,2.0
+2024,Australian Open,Hard,Jannik Sinner,Daniil Medvedev,4.0,4.0
+2024,Roland Garros,Clay,Carlos Alcaraz,Alexander Zverev,3.0,3.0
+2024,Wimbledon,Grass,Carlos Alcaraz,Novak Djokovic,3.0,3.0
+2024,Us Open,Hard,Jannik Sinner,Taylor Fritz,1.0,1.0

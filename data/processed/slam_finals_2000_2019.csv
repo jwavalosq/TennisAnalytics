@@ -1,0 +1,81 @@
+year,tournament,surface,name,player_id,rank
+2000,Australian Open,Hard,Andre Agassi,atp_101736,1.0
+2000,French Open,Clay,Gustavo Kuerten,atp_102856,5.0
+2000,US Open,Hard,Marat Safin,atp_103498,7.0
+2000,Wimbledon,Grass,Pete Sampras,atp_101948,3.0
+2001,Australian Open,Hard,Andre Agassi,atp_101736,6.0
+2001,French Open,Clay,Gustavo Kuerten,atp_102856,1.0
+2001,US Open,Hard,Lleyton Hewitt,atp_103720,4.0
+2001,Wimbledon,Grass,Goran Ivanisevic,atp_101964,125.0
+2002,Australian Open,Hard,Thomas Johansson,atp_102563,18.0
+2002,French Open,Clay,Albert Costa,atp_102610,22.0
+2002,US Open,Hard,Pete Sampras,atp_101948,17.0
+2002,Wimbledon,Grass,Lleyton Hewitt,atp_103720,1.0
+2003,Australian Open,Hard,Andre Agassi,atp_101736,2.0
+2003,French Open,Clay,Juan Carlos Ferrero,atp_103507,3.0
+2003,US Open,Hard,Andy Roddick,atp_104053,4.0
+2003,Wimbledon,Grass,Roger Federer,atp_103819,5.0
+2004,Australian Open,Hard,Roger Federer,atp_103819,2.0
+2004,French Open,Clay,Gaston Gaudio,atp_103292,44.0
+2004,US Open,Hard,Roger Federer,atp_103819,1.0
+2004,Wimbledon,Grass,Roger Federer,atp_103819,1.0
+2005,Australian Open,Hard,Marat Safin,atp_103498,4.0
+2005,French Open,Clay,Rafael Nadal,atp_104745,5.0
+2005,US Open,Hard,Roger Federer,atp_103819,1.0
+2005,Wimbledon,Grass,Roger Federer,atp_103819,1.0
+2006,Australian Open,Hard,Roger Federer,atp_103819,1.0
+2006,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2006,US Open,Hard,Roger Federer,atp_103819,1.0
+2006,Wimbledon,Grass,Roger Federer,atp_103819,1.0
+2007,Australian Open,Hard,Roger Federer,atp_103819,1.0
+2007,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2007,US Open,Hard,Roger Federer,atp_103819,1.0
+2007,Wimbledon,Grass,Roger Federer,atp_103819,1.0
+2008,Australian Open,Hard,Novak Djokovic,atp_104925,3.0
+2008,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2008,US Open,Hard,Roger Federer,atp_103819,2.0
+2008,Wimbledon,Grass,Rafael Nadal,atp_104745,2.0
+2009,Australian Open,Hard,Rafael Nadal,atp_104745,1.0
+2009,French Open,Clay,Roger Federer,atp_103819,2.0
+2009,US Open,Hard,Juan Martin Del Potro,atp_105223,6.0
+2009,Wimbledon,Grass,Roger Federer,atp_103819,2.0
+2010,Australian Open,Hard,Roger Federer,atp_103819,1.0
+2010,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2010,US Open,Hard,Rafael Nadal,atp_104745,1.0
+2010,Wimbledon,Grass,Rafael Nadal,atp_104745,1.0
+2011,Australian Open,Hard,Novak Djokovic,atp_104925,3.0
+2011,French Open,Clay,Rafael Nadal,atp_104745,1.0
+2011,US Open,Hard,Novak Djokovic,atp_104925,1.0
+2011,Wimbledon,Grass,Novak Djokovic,atp_104925,2.0
+2012,Australian Open,Hard,Novak Djokovic,atp_104925,1.0
+2012,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2012,US Open,Hard,Andy Murray,atp_104918,4.0
+2012,Wimbledon,Grass,Roger Federer,atp_103819,3.0
+2013,Australian Open,Hard,Novak Djokovic,atp_104925,1.0
+2013,French Open,Clay,Rafael Nadal,atp_104745,4.0
+2013,US Open,Hard,Rafael Nadal,atp_104745,2.0
+2013,Wimbledon,Grass,Andy Murray,atp_104918,2.0
+2014,Australian Open,Hard,Stan Wawrinka,atp_104527,8.0
+2014,French Open,Clay,Rafael Nadal,atp_104745,1.0
+2014,US Open,Hard,Marin Cilic,atp_105227,16.0
+2014,Wimbledon,Grass,Novak Djokovic,atp_104925,2.0
+2015,Australian Open,Hard,Novak Djokovic,atp_104925,1.0
+2015,French Open,Clay,Stan Wawrinka,atp_104527,9.0
+2015,US Open,Hard,Novak Djokovic,atp_104925,1.0
+2015,Wimbledon,Grass,Novak Djokovic,atp_104925,1.0
+2016,Australian Open,Hard,Novak Djokovic,atp_104925,1.0
+2016,French Open,Clay,Novak Djokovic,atp_104925,1.0
+2016,US Open,Hard,Stan Wawrinka,atp_104527,3.0
+2016,Wimbledon,Grass,Andy Murray,atp_104918,2.0
+2017,Australian Open,Hard,Roger Federer,atp_103819,17.0
+2017,French Open,Clay,Rafael Nadal,atp_104745,4.0
+2017,US Open,Hard,Rafael Nadal,atp_104745,1.0
+2017,Wimbledon,Grass,Roger Federer,atp_103819,5.0
+2018,Australian Open,Hard,Roger Federer,atp_103819,2.0
+2018,French Open,Clay,Rafael Nadal,atp_104745,1.0
+2018,US Open,Hard,Novak Djokovic,atp_104925,6.0
+2018,Wimbledon,Grass,Novak Djokovic,atp_104925,21.0
+2019,Australian Open,Hard,Novak Djokovic,atp_104925,1.0
+2019,French Open,Clay,Rafael Nadal,atp_104745,2.0
+2019,US Open,Hard,Rafael Nadal,atp_104745,2.0
+2019,Wimbledon,Grass,Novak Djokovic,atp_104925,1.0

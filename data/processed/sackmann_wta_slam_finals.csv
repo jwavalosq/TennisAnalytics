@@ -1,0 +1,100 @@
+year,tourney_name,surface,winner_name,loser_name,winner_seed,winner_rank
+2000,Australian Open,Hard,Lindsay Davenport,Martina Hingis,2.0,2.0
+2000,Roland Garros,Clay,Mary Pierce,Conchita Martinez,6.0,7.0
+2000,Wimbledon,Grass,Venus Williams,Lindsay Davenport,5.0,5.0
+2000,US Open,Hard,Venus Williams,Lindsay Davenport,3.0,3.0
+2001,Australian Open,Hard,Jennifer Capriati,Martina Hingis,12.0,14.0
+2001,Roland Garros,Clay,Jennifer Capriati,Kim Clijsters,4.0,4.0
+2001,Wimbledon,Grass,Venus Williams,Justine Henin,2.0,2.0
+2001,US Open,Hard,Venus Williams,Serena Williams,4.0,4.0
+2002,Australian Open,Hard,Jennifer Capriati,Martina Hingis,1.0,1.0
+2002,Roland Garros,Clay,Serena Williams,Venus Williams,3.0,3.0
+2002,Wimbledon,Grass,Serena Williams,Venus Williams,2.0,2.0
+2002,US Open,Hard,Serena Williams,Venus Williams,1.0,1.0
+2003,Australian Open,Hard,Serena Williams,Venus Williams,1.0,1.0
+2003,Roland Garros,Clay,Justine Henin,Kim Clijsters,4.0,4.0
+2003,Wimbledon,Grass,Serena Williams,Venus Williams,1.0,1.0
+2003,US Open,Hard,Justine Henin,Kim Clijsters,2.0,3.0
+2004,Australian Open,Hard,Justine Henin,Kim Clijsters,1.0,1.0
+2004,Roland Garros,Clay,Anastasia Myskina,Elena Dementieva,6.0,5.0
+2004,Wimbledon,Grass,Maria Sharapova,Serena Williams,13.0,15.0
+2004,US Open,Hard,Svetlana Kuznetsova,Elena Dementieva,9.0,9.0
+2005,Australian Open,Hard,Serena Williams,Lindsay Davenport,7.0,7.0
+2005,Roland Garros,Clay,Justine Henin,Mary Pierce,10.0,12.0
+2005,Wimbledon,Grass,Venus Williams,Lindsay Davenport,14.0,16.0
+2005,US Open,Hard,Kim Clijsters,Mary Pierce,4.0,4.0
+2006,Australian Open,Hard,Amelie Mauresmo,Justine Henin,3.0,3.0
+2006,Roland Garros,Clay,Justine Henin,Svetlana Kuznetsova,5.0,5.0
+2006,Wimbledon,Grass,Amelie Mauresmo,Justine Henin,1.0,1.0
+2006,US Open,Hard,Maria Sharapova,Justine Henin,3.0,4.0
+2007,Australian Open,Hard,Serena Williams,Maria Sharapova,,81.0
+2007,Roland Garros,Clay,Justine Henin,Ana Ivanovic,1.0,1.0
+2007,Wimbledon,Grass,Venus Williams,Marion Bartoli,23.0,31.0
+2007,US Open,Hard,Justine Henin,Svetlana Kuznetsova,1.0,1.0
+2008,Australian Open,Hard,Maria Sharapova,Ana Ivanovic,5.0,5.0
+2008,Roland Garros,Clay,Ana Ivanovic,Dinara Safina,2.0,2.0
+2008,Wimbledon,Grass,Venus Williams,Serena Williams,7.0,7.0
+2008,US Open,Hard,Serena Williams,Jelena Jankovic,4.0,3.0
+2009,Australian Open,Hard,Serena Williams,Dinara Safina,2.0,2.0
+2009,Roland Garros,Clay,Svetlana Kuznetsova,Dinara Safina,7.0,7.0
+2009,Wimbledon,Grass,Serena Williams,Venus Williams,2.0,2.0
+2009,US Open,Hard,Kim Clijsters,Caroline Wozniacki,,
+2010,Australian Open,Hard,Serena Williams,Justine Henin,1.0,1.0
+2010,Roland Garros,Clay,Francesca Schiavone,Samantha Stosur,17.0,17.0
+2010,Wimbledon,Grass,Serena Williams,Vera Zvonareva,1.0,1.0
+2010,US Open,Hard,Kim Clijsters,Vera Zvonareva,2.0,3.0
+2011,Australian Open,Hard,Kim Clijsters,Na Li,3.0,3.0
+2011,Roland Garros,Clay,Na Li,Francesca Schiavone,6.0,7.0
+2011,Wimbledon,Grass,Petra Kvitova,Maria Sharapova,8.0,8.0
+2011,US Open,Hard,Samantha Stosur,Serena Williams,9.0,10.0
+2012,Australian Open,Hard,Victoria Azarenka,Maria Sharapova,3.0,3.0
+2012,Roland Garros,Clay,Maria Sharapova,Sara Errani,2.0,2.0
+2012,Wimbledon,Grass,Serena Williams,Agnieszka Radwanska,6.0,6.0
+2012,US Open,Hard,Serena Williams,Victoria Azarenka,4.0,4.0
+2013,Australian Open,Hard,Victoria Azarenka,Na Li,1.0,1.0
+2013,Roland Garros,Clay,Serena Williams,Maria Sharapova,1.0,1.0
+2013,Wimbledon,Grass,Marion Bartoli,Sabine Lisicki,15.0,15.0
+2013,US Open,Hard,Serena Williams,Victoria Azarenka,1.0,1.0
+2014,Australian Open,Hard,Na Li,Dominika Cibulkova,4.0,4.0
+2014,Roland Garros,Clay,Maria Sharapova,Simona Halep,7.0,8.0
+2014,Wimbledon,Grass,Petra Kvitova,Eugenie Bouchard,6.0,6.0
+2014,US Open,Hard,Serena Williams,Caroline Wozniacki,1.0,1.0
+2015,Australian Open,Hard,Serena Williams,Maria Sharapova,1.0,1.0
+2015,Roland Garros,Clay,Serena Williams,Lucie Safarova,1.0,1.0
+2015,Wimbledon,Grass,Serena Williams,Garbine Muguruza,1.0,1.0
+2015,US Open,Hard,Flavia Pennetta,Roberta Vinci,26.0,26.0
+2016,Roland Garros,Clay,Garbine Muguruza,Serena Williams,4,4.0
+2016,Wimbledon,Grass,Serena Williams,Angelique Kerber,1,1.0
+2016,US Open,Hard,Angelique Kerber,Karolina Pliskova,2,2.0
+2016,Australian Open,Hard,Angelique Kerber,Serena Williams,7,6.0
+2017,Roland Garros,Clay,Jelena Ostapenko,Simona Halep,,47.0
+2017,Wimbledon,Grass,Garbine Muguruza,Venus Williams,14.0,15.0
+2017,US Open,Hard,Sloane Stephens,Madison Keys,,83.0
+2017,Australian Open,Hard,Serena Williams,Venus Williams,2.0,2.0
+2018,Roland Garros,Clay,Simona Halep,Sloane Stephens,1.0,1.0
+2018,Wimbledon,Grass,Angelique Kerber,Serena Williams,11.0,10.0
+2018,US Open,Hard,Naomi Osaka,Serena Williams,20.0,19.0
+2018,Australian Open,Hard,Caroline Wozniacki,Simona Halep,2.0,2.0
+2019,Roland Garros,Clay,Ashleigh Barty,Marketa Vondrousova,8.0,8.0
+2019,Wimbledon,Grass,Simona Halep,Serena Williams,7.0,7.0
+2019,Us Open,Hard,Bianca Andreescu,Serena Williams,15.0,15.0
+2019,Australian Open,Hard,Naomi Osaka,Petra Kvitova,4.0,4.0
+2020,Australian Open,Hard,Sofia Kenin,Garbine Muguruza,14,15.0
+2020,Us Open,Hard,Naomi Osaka,Victoria Azarenka,4,9.0
+2020,Roland Garros,Clay,Iga Swiatek,Sofia Kenin,,54.0
+2021,Australian Open,Hard,Naomi Osaka,Jennifer Brady,3.0,3.0
+2021,Roland Garros,Clay,Barbora Krejcikova,Anastasia Pavlyuchenkova,,33.0
+2021,Wimbledon,Grass,Ashleigh Barty,Karolina Pliskova,1.0,1.0
+2021,Us Open,Hard,Emma Raducanu,Leylah Fernandez,,150.0
+2022,Australian Open,Hard,Ashleigh Barty,Danielle Collins,1,1.0
+2022,Roland Garros,Clay,Iga Swiatek,Coco Gauff,1,1.0
+2022,Wimbledon,Grass,Elena Rybakina,Ons Jabeur,17,23.0
+2022,Us Open,Hard,Iga Swiatek,Ons Jabeur,1,1.0
+2023,Australian Open,Hard,Aryna Sabalenka,Elena Rybakina,5.0,5.0
+2023,Roland Garros,Clay,Iga Swiatek,Karolina Muchova,1.0,1.0
+2023,Wimbledon,Grass,Marketa Vondrousova,Ons Jabeur,,42.0
+2023,Us Open,Hard,Coco Gauff,Aryna Sabalenka,6.0,6.0
+2024,Australian Open,Hard,Aryna Sabalenka,Qinwen Zheng,2.0,2.0
+2024,Roland Garros,Clay,Iga Swiatek,Jasmine Paolini,1.0,1.0
+2024,Wimbledon,Grass,Barbora Krejcikova,Jasmine Paolini,31.0,32.0
+2024,Us Open,Hard,Aryna Sabalenka,Jessica Pegula,2.0,2.0
