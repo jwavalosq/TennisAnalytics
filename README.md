@@ -106,7 +106,7 @@ python -m nbconvert --to notebook --execute --inplace notebooks/*.ipynb
 ```
 
 Charts are in `charts/`. Processed tables are in `data/processed/`.
-The story site is in `docs/index.html`, with chart copies in `docs/charts/`.
+The story site is in `docs/index.html`, with chart copies in `docs/charts/`, and live at https://jwavalosq.github.io/TennisAnalytics/.
 
 Original repo: github.com/jwavalosq/TennisAnalytics. This local build does
 not delete or overwrite any original repo file. It builds on downloaded
