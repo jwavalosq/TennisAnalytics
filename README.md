@@ -44,7 +44,7 @@ The work is six notebooks and 16 charts, all executed end to end with zero cell 
 
 **The underdog wins more often than you might think.** When the lower ranked player won, that happened in 28.3 percent of Slam matches (2,867 of 10,120). It was most common in round one, at 30.4 percent. Rank 1 players won 31 of the 80 Slams, and ranks 2 to 4 won another 31. The top four ranks won 62 of 80.
 
-**After 2019, the story continued.** From 2020 to 2024, Djokovic won 8 Slams, Carlos Alcaraz won 4, Nadal won 3, Jannik Sinner won 2, and Dominic Thiem and Daniil Medvedev won 1 each. In the women's game from 2000 to 2024, Serena Williams won 22 Slams, then Venus Williams and Justine Henin with 7 each.
+**After 2019, the story continued.** From 2020 to 2024, Djokovic won 8 Slams, Carlos Alcaraz won 4, Nadal won 3, Jannik Sinner won 2, and Dominic Thiem and Daniil Medvedev won 1 each. Wimbledon 2020 was cancelled, so 2020 had three Slams, not four. In the women's game from 2000 to 2024, Serena Williams won 22 Slams, then Venus Williams and Justine Henin with 7 each.
 
 ## What it means, and who it helps
 
